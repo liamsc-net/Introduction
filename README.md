@@ -19,10 +19,10 @@ Where all of Liam's Scripts/Software/Code are located!
 
 All but the url shortener **website links are currently unavailable**, and all links relating to the patrov pack and the new AHK scrips are unavailable, but they are all **coming soon**<sup><b>tm</b></sup>, unavailable links are crossed out!
 
-- The Patrov Pack; A futuristic Minecraft ModPack | ~~[Github Repo](https://https://github.com/liamsc-net/The-Petrov-Pack) | [Website](https://liamsc.net/projects/downloads/patrov) | [CurseForge](https://#)~~
+- The Petrov Pack; A futuristic Minecraft ModPack | ~~[Github Repo](https://github.com/liamsc-net/The-Petrov-Pack) | [Website](https://liamsc.net/projects/downloads/petrov) | [CurseForge](https://#)~~
 - URL Shortener; using a github issue page as a database | [Shorten your link](https://liamsc.net/60) | [Website](https://liamsc.net/shorten)
-- VSCode theme; the theme used by me | [Github Repo](https://github.com/Liam-s-c/vscode-dark-theme) | [Download](https://marketplace.visualstudio.com/items?itemName=Liamsc.liamsc-net-dark&ssr=false#overview) | ~~[Website](https://liamsc.net/projects/downloads/vscode-theme)~~
-- Chrome theme; the theme used by me | [Github Repo](https://github.com/Liam-s-c/Liams-Dark-Theme) | [Download](https://github.com/Liam-s-c/Liams-Dark-Theme/releases/latest) | ~~[Website](https://liamsc.net/projects/downloads/chrome-theme)~~
+- VSCode theme; the theme used by me | [Github Repo](https://github.com/Liam-s-c/vscode-dark-theme) | [Download](https://marketplace.visualstudio.com/items?itemName=Liamsc.liamsc-net-dark&ssr=false#overview) | [Website](https://liamsc.net/projects/downloads/vscode-theme)
+- Chrome theme; the theme used by me | [Github Repo](https://github.com/Liam-s-c/Liams-Dark-Theme) | [Download](https://github.com/Liam-s-c/Liams-Dark-Theme/releases/latest) | [Website](https://liamsc.net/projects/downloads/chrome-theme)
 - [OLD] AutoHotKey; all of the .ahk scripts I used | [Github Repo](https://github.com/Liam-s-c/AHK)
 - **[NEW]** AutoHotKey; all of the .ahk scripts I use | ~~[Github Repo](https://github.com/liamsc-net/ahk) | [Download](https://github.com/liamsc-net/ahk/releases/latest) | [Website](https://liamsc.net/projects/downloads/ahk)~~
 - CSS Drawing; I've drawn some things using pure css | [Website](https://liamsc.net/css-drawing)
