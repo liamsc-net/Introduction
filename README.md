@@ -1,6 +1,6 @@
 <h1 align="center" style="padding:0px">
-<img src="https://liamsc.net/img/icon.svg" width="128px">
-<br>
+<a href="https://liamsc.net/img/icon.svg"><img src="https://liamsc.net/img/icon.svg" width="128px">
+<br></a>
 <a href="https://liamsc.net/projects/">Liamsc.net</a>
 </h1>
 <h3 align="center" style="padding-top:0px">
