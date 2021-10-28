@@ -22,7 +22,7 @@ Where all of Liam's Scripts/Software/Code are located!
 - VSCode theme; the theme used by me | [Github Repo](https://github.com/Liam-s-c/vscode-dark-theme) | [Download](https://marketplace.visualstudio.com/items?itemName=Liamsc.liamsc-net-dark&ssr=false#overview) | [Website](https://liamsc.net/projects/downloads/vscode-theme)
 - Chrome theme; the theme used by me | [Github Repo](https://github.com/Liam-s-c/Liams-Dark-Theme) | [Download](https://github.com/Liam-s-c/Liams-Dark-Theme/releases/latest) | [Website](https://liamsc.net/projects/downloads/chrome-theme)
 - [OLD] AutoHotKey; all of the .ahk scripts I used | [Github Repo](https://github.com/Liam-s-c/AHK)
-- **[NEW]** AutoHotKey; all of the .ahk scripts I use | ~~[Github Repo](https://github.com/liamsc-net/ahk) | [Download](https://github.com/liamsc-net/ahk/releases/latest) | [Website](https://liamsc.net/projects/downloads/ahk)~~
+- **[NEW]** AutoHotKey; all of the .ahk scripts I use | [Github Repo](https://github.com/liamsc-net/ahk) | [Download](https://github.com/liamsc-net/ahk/releases/latest) | [Website](https://liamsc.net/projects/downloads/ahk)
 - CSS Drawing; I've drawn some things using pure CSS, JavaScript and HTML | [Website](https://liamsc.net/css-drawing)
 
 - ***More to come along***
